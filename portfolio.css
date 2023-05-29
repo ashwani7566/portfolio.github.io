@@ -97,7 +97,7 @@ h1 {
 .aboutme-image {
     height: 450px;
     width: 400px;
-    background-image: url("images/ashwani-aboutme.jpg");
+    background-image: url("ashwani-aboutme.jpg");
     background-size: cover;
     background-position: center;
 }
